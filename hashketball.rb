@@ -70,7 +70,7 @@ def game_hash
           :points => 10,
           :rebounds => 1,
           :shoe => 18,
-          :slam_dunks => ,
+          :slam_dunks => 2,
           :steals => 2
         },
         {:player_name => "Bismack Biyombo",
