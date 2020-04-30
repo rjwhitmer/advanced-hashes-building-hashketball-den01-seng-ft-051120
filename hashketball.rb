@@ -25,7 +25,7 @@ def game_hash
           :slam_dunks => 12,
           :steals => 12,
         },
-        {:player_name => "",
+        {:player_name => "Brook Lopez",
           :assists => ,
           :blocks => ,
           :number => ,
