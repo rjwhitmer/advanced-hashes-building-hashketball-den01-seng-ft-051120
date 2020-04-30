@@ -73,7 +73,7 @@ def game_hash
           :slam_dunks => ,
           :steals => 
         },
-        {:player_name => "Bismack Biyambo",
+        {:player_name => "Bismack Biyombo",
           :assists => ,
           :blocks => ,
           :number => ,
