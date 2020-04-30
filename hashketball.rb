@@ -83,7 +83,7 @@ def game_hash
           :slam_dunks => ,
           :steals => 
         },
-        {:player_name => "DeSagna ",
+        {:player_name => "DeSagna Diop",
           :assists => ,
           :blocks => ,
           :number => ,
