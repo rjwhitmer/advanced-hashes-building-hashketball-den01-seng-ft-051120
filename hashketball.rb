@@ -63,7 +63,7 @@ def game_hash
       :team_name => "Charlotte Hornets",
       :colors => ["Turquoise", "Purple"],
       :players => [
-        {:player_name => "",
+        {:player_name => "Jeff ",
           :assists => ,
           :blocks => ,
           :number => ,
