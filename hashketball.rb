@@ -1,6 +1,9 @@
 def game_hash(table)
   
   game_data = {
+    :home => {},
+    
+    :away => {}
     
   }
   
