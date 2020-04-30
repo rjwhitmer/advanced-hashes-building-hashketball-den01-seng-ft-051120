@@ -36,11 +36,11 @@ def game_hash
           :steals => 3
         },
         {:player_name => "Mason Plumlee",
-          :assists => ,
+          :assists => 6,
           :blocks => ,
           :number => 1,
           :points => 26,
-          :rebounds => ,
+          :rebounds => 11,
           :shoe => 19,
           :slam_dunks => ,
           :steals => 
