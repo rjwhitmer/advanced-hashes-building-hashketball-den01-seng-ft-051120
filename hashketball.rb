@@ -104,14 +104,14 @@ def game_hash
           :steals => 1
         },
         {:player_name => "Kemba Walker",
-          :assists => ,
+          :assists => 12,
           :blocks => ,
           :number => 33,
           :points => 6,
           :rebounds => 12,
           :shoe => 15,
           :slam_dunks => ,
-          :steals => 
+          :steals => 7
         },
         
       ]
