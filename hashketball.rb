@@ -26,14 +26,14 @@ def game_hash
           :steals => 12,
         },
         {:player_name => "Brook Lopez",
-          :assists => ,
-          :blocks => ,
+          :assists => 10,
+          :blocks => 1,
           :number => 11,
           :points => 17,
           :rebounds => 19,
           :shoe => 17,
           :slam_dunks => ,
-          :steals => 
+          :steals => 3
         },
         {:player_name => "Mason Plumlee",
           :assists => ,
