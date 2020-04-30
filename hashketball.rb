@@ -85,13 +85,13 @@ def game_hash
         },
         {:player_name => "DeSagna Diop",
           :assists => 12,
-          :blocks => ,
+          :blocks => 4,
           :number => 2,
           :points => 24,
           :rebounds => 12,
           :shoe => 14,
-          :slam_dunks => ,
-          :steals => 
+          :slam_dunks => 5,
+          :steals => 5
         },
         {:player_name => "Ben Gordon",
           :assists => ,
