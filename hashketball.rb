@@ -28,10 +28,10 @@ def game_hash
         {:player_name => "Brook Lopez",
           :assists => ,
           :blocks => ,
-          :number => ,
+          :number => 11,
           :points => ,
           :rebounds => ,
-          :shoe => ,
+          :shoe => 17,
           :slam_dunks => ,
           :steals => 
         },
