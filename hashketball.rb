@@ -95,13 +95,13 @@ def game_hash
         },
         {:player_name => "Ben Gordon",
           :assists => 2,
-          :blocks => ,
+          :blocks => 1,
           :number => 8,
           :points => 33,
           :rebounds => 3,
           :shoe => 15,
-          :slam_dunks => ,
-          :steals => 
+          :slam_dunks => 0,
+          :steals => 1
         },
         {:player_name => "Kemba Walker",
           :assists => ,
