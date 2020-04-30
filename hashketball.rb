@@ -74,11 +74,11 @@ def game_hash
           :steals => 2
         },
         {:player_name => "Bismack Biyombo",
-          :assists => ,
+          :assists => 7,
           :blocks => ,
           :number => 0,
           :points => 12,
-          :rebounds => ,
+          :rebounds => 4,
           :shoe => 16,
           :slam_dunks => ,
           :steals => 
