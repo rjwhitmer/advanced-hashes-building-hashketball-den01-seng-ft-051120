@@ -1,4 +1,4 @@
-def game_hash(table)
+def game_hash
   
   game_data = {
     :home => {},
