@@ -65,13 +65,13 @@ def game_hash
       :players => [
         {:player_name => "Jeff Adrien",
           :assists => 1,
-          :blocks => ,
+          :blocks => 7,
           :number => 4,
           :points => 10,
           :rebounds => 1,
           :shoe => 18,
           :slam_dunks => ,
-          :steals => 
+          :steals => 2
         },
         {:player_name => "Bismack Biyombo",
           :assists => ,
