@@ -1,9 +1,13 @@
 def game_hash
   
   game_data = {
-    :home => {},
+    :home => {
+      :team_name => ""
+    },
     
-    :away => {}
+    :away => {
+      :team_name => ""
+    }
     
   }
   
