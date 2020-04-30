@@ -6,14 +6,14 @@ def game_hash
       :colors => [],
       :players => [
         {:player_name => "Alan Anderson",
-        :assists => "",
-        :blocks => "",
+        :assists => 12,
+        :blocks => 1,
         :number => 0,
         :points => 22,
         :rebounds => 12,
         :shoe => 16,
-        :slam_dunks => "",
-        :steals => ""},
+        :slam_dunks => 1,
+        :steals => 3},
         {}
       ]
     },
