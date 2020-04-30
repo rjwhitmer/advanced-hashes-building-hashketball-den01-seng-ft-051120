@@ -87,7 +87,7 @@ def game_hash
           :assists => ,
           :blocks => ,
           :number => 2,
-          :points => ,
+          :points => 24,
           :rebounds => ,
           :shoe => 14,
           :slam_dunks => ,
