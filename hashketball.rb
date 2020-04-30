@@ -84,11 +84,11 @@ def game_hash
           :steals => 22
         },
         {:player_name => "DeSagna Diop",
-          :assists => ,
+          :assists => 12,
           :blocks => ,
           :number => 2,
           :points => 24,
-          :rebounds => ,
+          :rebounds => 12,
           :shoe => 14,
           :slam_dunks => ,
           :steals => 
