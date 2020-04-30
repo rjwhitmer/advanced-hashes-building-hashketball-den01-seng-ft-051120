@@ -22,7 +22,7 @@ def game_hash
           :points => 12,
           :rebounds => 12,
           :shoe => 14,
-          :slam_dunks => 12,
+          :slam_dunks => 7,
           :steals => 12,
         },
         {:player_name => "Brook Lopez",
